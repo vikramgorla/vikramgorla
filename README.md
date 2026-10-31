@@ -8,6 +8,7 @@ These days I build small tools around AI, open data and automation. I like simpl
 
 - **[mcp-swiss](https://github.com/vikramgorla/mcp-swiss)** – an MCP server for Swiss open data: transport, weather, geodata, companies and more. No API keys needed.
 - **[swisscontract-ai](https://github.com/vikramgorla/swisscontract-ai)** – an app that uses AI to help read and understand contracts in Switzerland.
+- **[Durbar](https://github.com/three-feathers/agent-durbar)** – a desktop app to see, chat with and coordinate AI agents (GitHub Copilot, Claude Code, OpenAI Codex) on Linux, macOS and Windows. A three-feathers project, still in alpha.
 
 ### Interests
 
